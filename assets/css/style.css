@@ -121,23 +121,6 @@ section {
 }
 /* Hero Styles End */
 
-.section-title {
-  font-size: 55px;
-  color: #024e76;
-  margin-bottom: 35px;
-  padding: 0 100px 20px 100px;
-  display: inline-block;
-  border-bottom: 3px solid;
-}
-
-.primary-border {
-  border-color: #fce138;
-}
-
-.secondary-border {
-  border-color: #39a6b2;
-}
-
 /* What We Do Styles Start*/
 .intro {
   text-align: center;
@@ -159,7 +142,7 @@ section {
 }
 
 .steps div {
-  margin-bottom: 80%;
+  margin-bottom: 80px;
 }
 
 .steps img {
@@ -182,3 +165,21 @@ section {
   font-size: 38px;
 }
 /* What You Do Styles End */
+
+.section-title {
+  font-size: 55px;
+  color: #024e76;
+  margin-bottom: 35px;
+  padding: 0 100px 20px 100px;
+  display: inline-block;
+  border-bottom: 3px solid;
+}
+
+.primary-border {
+  border-color: #fce138;
+}
+
+.secondary-border {
+  border-color: #39a6b2;
+}
+
