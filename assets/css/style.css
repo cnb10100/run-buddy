@@ -183,6 +183,7 @@ section {
   border-color: #39a6b2;
 }
 
+/* Trainer Section Styles Start */
 .trainers {
   text-align: center;
 }
@@ -229,3 +230,5 @@ section {
   font-size: 17px;
   line-height: 1.3;
 }
+/* Trainer Section Styles End */
+
